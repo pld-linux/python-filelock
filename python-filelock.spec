@@ -7,6 +7,7 @@
 Summary:	A platform independent file lock
 Summary(pl.UTF-8):	Niezależne od platformy blokady plikowe
 Name:		python-filelock
+# keep 3.2.x here for python2 support
 Version:	3.2.1
 Release:	1
 License:	Public Domain
