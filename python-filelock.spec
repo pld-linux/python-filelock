@@ -9,7 +9,7 @@ Summary(pl.UTF-8):	Niezależne od platformy blokady plikowe
 Name:		python-filelock
 # keep 3.2.x here for python2 support
 Version:	3.2.1
-Release:	1
+Release:	2
 License:	Public Domain
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/filelock/
